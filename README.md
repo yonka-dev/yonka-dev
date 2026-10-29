@@ -9,4 +9,4 @@ I bring over 15 years of professional .NET engineering experience to independent
 
 Here you'll find my projects, technical experiments, and open-source contributions.
 
-**[Website](https://yonka.dev)** · **[LinkedIn](https://www.linkedin.com/in/yonka-ivanova-355ba6188/)**
+<a href="https://yonka.dev" target="_blank" rel="noopener noreferrer">Website</a> · <a href="https://www.linkedin.com/in/yonka-ivanova-355ba6188/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
